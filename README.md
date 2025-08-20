@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Rithika-Portfolio
+"A modern, responsive personal portfolio showcasing frontend development projects, professional skills, and contact integration. Built with React, TailwindCSS, and interactive UI/UX animations to highlight expertise in clean and innovative web design."
+>>>>>>> 84d59064dac265a91ef3c9d80c7051f9cf93eb43
